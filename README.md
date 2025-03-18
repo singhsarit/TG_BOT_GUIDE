@@ -86,3 +86,7 @@ node bot.js
 - API keys stored only in session memory
 - Keys automatically cleared with /remove command
 - No persistent storage of credentials
+
+## 🔒 HOW TO WRITE CODE IN COPIABLE FORMAT
+
+![HOW TO WRITE CODE IN COPIABLE FORMAT](https://github.com/singhsarit/TG_BOT_GUIDE/blob/main/Screenshot%202025-03-18%20124144.png)
